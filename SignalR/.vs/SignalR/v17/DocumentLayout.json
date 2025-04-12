@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0.Core\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22560C91-CAC6-4B4E-BBC8-120ECBAE426D}|SignalR\\SignalR.csproj|d:\\0.core\\signalr\\signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22560C91-CAC6-4B4E-BBC8-120ECBAE426D}|SignalR\\SignalR.csproj|solutionrelative:signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22560C91-CAC6-4B4E-BBC8-120ECBAE426D}|SignalR\\SignalR.csproj|d:\\0.core\\signalr\\signalr\\controllers\\screenhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22560C91-CAC6-4B4E-BBC8-120ECBAE426D}|SignalR\\SignalR.csproj|solutionrelative:signalr\\controllers\\screenhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenHub.cs",
+              "DocumentMoniker": "D:\\0.Core\\SignalR\\SignalR\\Controllers\\ScreenHub.cs",
+              "RelativeDocumentMoniker": "SignalR\\Controllers\\ScreenHub.cs",
+              "ToolTip": "D:\\0.Core\\SignalR\\SignalR\\Controllers\\ScreenHub.cs",
+              "RelativeToolTip": "SignalR\\Controllers\\ScreenHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:14:54.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0.Core\\SignalR\\SignalR\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR\\Program.cs",
+              "ToolTip": "D:\\0.Core\\SignalR\\SignalR\\Program.cs",
+              "RelativeToolTip": "SignalR\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:26:24.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
